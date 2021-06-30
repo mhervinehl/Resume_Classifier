@@ -1,0 +1,84 @@
+I bring 15 years of experience in the field of Data from BI, Data Analytics and Science to Data quality and management. Multi-country experience, faculties to communicate at all level of a company, strong business acumen, management experiences, I love to answer to business challenges by Data Solution with added value.
+Professional experiences
+2019 – Now
+Le Shop, Switzerland
+Analytics and Data Science Team Lead
+Driving the usage of Data from road-map integration, business analysis, user training on Self-Bi service up to Machine Learning model’s implementation.
+Key achievements are:
+• Integration of Data to get the 360° view on customer journey: website, newsletter, satisfaction, Migros offline sales
+• Setting-up a new Data platform to develop and release ML models in CD/CI mode
+• Implementation of first Machine Learning models: CLV as a basis of CRM strategy definition, Product Recommender (+1MCHF additional sales), Demand Planning, NLP verbatim classification
+2017 – 2019
+Le Shop, Switzerland
+Senior Data Scientist
+On a new position at Le Shop, inside Marketing department, in charge of strategical studies, setting up models and Data Science tools to better understand customer behavior.
+Key achievements are:
+• Developments of toolbox to manipulate Data (R and MDX)
+• New Delivery Fee features: AB test protocol definition, analysis and Business Plan
+• Developments of Customer segmentations, marketing automation tools
+2010-2017
+La Redoute, Switzerland
+IT & BI Director
+Member of the executive committee
+In direct report to the CEO
+Co-management of Marketing Departments from 2013
+Managing 2 teams (IT/Data & Bi) in charge of the full Data Management processes
+Key achievements are:
+• Digital transformation projects: full digitalization of the invoice process
+• 2014-2017 mid-term strategic forecast (demand, order, discount, sales)
+• Business model estimation: discount model, free delivery & return models, furniture launching activity
+• Machine Learning models for customer targeting and Marketing Mix Model optimization
+• Development of web scraping tools to get competitors data
+• Migration of Marketing Automation tool
+Mathieu Hervin
+Analytics and Data Science Lead
+(+41)774191532 - Rue de la Madeleine 5, 1800 Vevey, Switzerland
+mhervin@hotmail.fr
+https://www.linkedin.com/in/mathieu-hervin
+2009-2010
+BNP, Egypt
+Deputy COO – Project manager
+In direct report to the Secretary General, in charge of strategical studies on operations and organization.
+Key achievements are:
+• Support for the activity optimization and follow-up of the replacement team (operational team)
+• Optimization of cash machine replenishment process: 20% of cost saving
+• Optimization of cash flow in branches: 10% of cost saving
+• Optimization of the staffing in BNP branches according to the volume and types of operations treated
+2008 – 2009
+BNP, Russia
+e-commerce manager
+In charge of launching new e-commerce channels.
+Key achievements are:
+• Online strategy: business plan, marketing budget, development of the different business lines
+• Emailing and cross-selling first operations
+• Website management: SEO, SEA, relationship with the web agency, traffic management, tagging
+2005-2008
+BNP, France
+e-commerce project manager
+• Responsible for internet activity launching projects (Romania, Algeria, Mexico, Argentina, Morocco)
+• Support for the marketing strategy definition of the subsidiaries
+• Diffusion of Best practices for local market around UX, marketing and processes
+2001-2005
+BNP, France
+Data Scientist
+• Markov models for Customer Value forecast
+• Machine Learning models for credit acceptation and cross selling / up selling credits
+• Data room missions for different projects of mergers and acquisitions
+Education
+2000-2001
+Master Data Science, ISFA, University Lyon 1 (Lyon-France)
+1997-2000
+Master Computer Science, PolyTech, University Lyon 1 (Lyon-France)
+Last year done in IUPUI University, Indianapolis, INDIANA, USA.
+Languages
+French
+English
+Spanish
+Russian
+Native
+Advanced
+Academic
+Beginner
+Technologies
+Data: R, Python, Azure, Databricks, Google Cloud, SAS, WPS, SPSS Modeler, SQL, Business Object, PowerBI
+Web analytics: Google Analytics, Adobe Analytics
